@@ -1,0 +1,8 @@
+.product-card {
+    max-width: 300px;
+    cursor: pointer;
+}
+
+.product-card img {
+    width: 100%;
+}
